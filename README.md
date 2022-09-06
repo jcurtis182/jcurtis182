@@ -1,5 +1,5 @@
 - Hello, I'm Joseph Curtis.
-- I'm currently a student at Louisiana State University, persuing a bachelor's in computer science, with a concentration in software engineering.
+- I'm currently a student at Louisiana State University, pursuing a bachelor's in computer science, with a concentration in software engineering.
 - As of August 2022, I primarily have experience with Java, and am currently learning C and C++.
 - Many of the things I upload here will be college projects, but I may add some personal ones that I'm particularly proud of once I become more skilled.
 
