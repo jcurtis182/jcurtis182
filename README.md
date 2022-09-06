@@ -1,6 +1,6 @@
 - Hello, I'm Joseph.
 - I'm currently a student at Louisiana State University.
-- As of now, my major is software engineering.
+- As of now, my major is computer science, with a concentration in software engineering.
 - Many of the things I upload here will be college projects, but I may add some personal ones that I'm particularly proud of once I become more skilled.
 
 <!---
