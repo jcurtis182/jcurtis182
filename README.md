@@ -1,7 +1,8 @@
 - Hello, I'm Joseph Curtis.
-- I'm currently a student at Louisiana State University, pursuing a bachelor's in computer science, with a focus on software engineering and web programming.
-- As of May 2023, my experience is primarily in Java and JavaScript, and I am currently studying web development.
-- Many of the things I upload here will be college assigments, but I'll be adding some personal projects that I'm particularly proud of once I become more skilled.
+- I'm currently a student and employee at Louisiana State University, pursuing a bachelor's in computer science, with a focus on software engineering and web programming.
+- As of January 2024, my software engineering experience is primarily in Java, and my web development experience involves JavaScript, HTML, CSS, PHP, and .Net.
+- Most of my repositories here will be a mix of college assignments and personal projects.
+-   Some assignments are not publically visible due to their reuse, but can be shared when requested. 
 
 <!---
 jcurtis182/jcurtis182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
